@@ -1,0 +1,27 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "0",
+      "localizations": [
+        {
+          "description": "Weekday, travel, and custom routine profiles.",
+          "displayName": "Multiple Routines",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.bedtimeroutine2.pro",
+      "referenceName": "Multiple Routines",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 1
+  }
+}
